@@ -3,19 +3,17 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package lab3;
+package Bai1;
 
 /**
  *
- * @author ADMIN
+ * 
  */
-public class Lab3 {
+public class XeMayHaNoi extends XeMay{
+    private int n;
+    XeMay[] mangxe;
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
+    public XeMayHaNoi() {
     }
     
 }
